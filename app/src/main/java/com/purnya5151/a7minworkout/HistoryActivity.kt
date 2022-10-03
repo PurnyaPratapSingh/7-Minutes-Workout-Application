@@ -21,6 +21,9 @@ class HistoryActivity : AppCompatActivity() {
 
         binding?.toolbarHistoryActivity?.setNavigationOnClickListener {
             onBackPressed()
+
+//            Git testing
+
         }
     }
 }
